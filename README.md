@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫   Hello:
 💬 Ask me about MEAN stack<br>🌱 I’m currently learning Java/spring-boot<br>🔭 Currently building a full-featured e-commerce website with Angular and Spring Boot!"<br>🤝 I’m looking for help with Springboot/hosting<br>🤓 My 'no' button is on mute, but it's still there... somewhere.
 
 
